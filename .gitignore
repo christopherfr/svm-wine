@@ -1,0 +1,12 @@
+*.png
+*.exe
+*.c
+*.h
+*.zip
+*.dll
+*.mexw64
+make.m
+visualizacion_data.m
+Makefile
+README
+libsvm-3.22
